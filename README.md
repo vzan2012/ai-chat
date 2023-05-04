@@ -41,9 +41,7 @@ This codebase is developed using Vite, JavaScript and Tailwind CSS has been used
 
 ### Screenshots
 
-## Authors
-
-Contributors name
+## Author
 
 Deepak Guptha Sitharaman
 
