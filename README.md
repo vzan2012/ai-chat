@@ -40,6 +40,9 @@ This codebase is developed using Vite, JavaScript and Tailwind CSS has been used
 - Open the browser and access url generated from the terminal (Example: http://localhost:5173)
 
 ### Screenshots
+![image](https://user-images.githubusercontent.com/13725828/236230933-f4b42f6c-ce76-4a32-939b-ef5503bd5740.png)
+![image](https://user-images.githubusercontent.com/13725828/236231213-ed6cb157-02fb-4bd6-81de-f1a81e6f0df2.png)
+
 
 ## Author
 
