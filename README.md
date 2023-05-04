@@ -41,7 +41,9 @@ This codebase is developed using Vite, JavaScript and Tailwind CSS has been used
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/13725828/236230933-f4b42f6c-ce76-4a32-939b-ef5503bd5740.png)
-![image](https://user-images.githubusercontent.com/13725828/236231213-ed6cb157-02fb-4bd6-81de-f1a81e6f0df2.png)
+
+![image](https://user-images.githubusercontent.com/13725828/236231867-ae41653c-310c-47ea-8a2b-7f0994707699.png)
+
 
 
 ## Author
